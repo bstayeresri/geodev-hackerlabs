@@ -18,7 +18,7 @@ In this lab you will swap your basemap with a your favorite vector basemap.
 		owner:esri_vector -mature
 		```
 		
-	2. Click on `World Street Map (Night)` (DO NOT CLICK ADD!) > ```Add to Map```.
+	2. Click on `World Street Map (Night)` (DO NOT CLICK ADD!) > ```Use as Basemap```.
 
 	3. Click `Done Adding Layers`.
  
